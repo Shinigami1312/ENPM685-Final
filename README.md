@@ -1,4 +1,4 @@
-# Incident Report - ENPM685 Waffle Co
+# Incident Response Report - ENPM685 Waffle Co
 
 This repository contains documentation and findings from a security incident investigation conducted for ENPM685 Waffle Co. The report analyzes the breach, identifying the vulnerabilities exploited and providing recommendations to enhance security for the company's web and data infrastructure.
 
